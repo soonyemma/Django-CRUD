@@ -95,3 +95,8 @@ Do not add your database (db.sqlite) to version control (GitHub).
 Ensure your final code/submission is on the default branch of your GitHub repository.
 
 Submit the link to your Github repository e.g https://github.com/github_username/repo_name
+
+https://www.youtube.com/watch?v=7sUEktXzxlA
+https://www.youtube.com/watch?v=lIVsa9tXdck&t=2297s
+https://www.youtube.com/watch?v=V961_ncGTxg&t=11s
+https://www.geeksforgeeks.org/django-crud-create-retrieve-update-delete-function-based-views/
